@@ -37,7 +37,7 @@ with st.sidebar:  # Defines content for the sidebar
 
     # Input fields for database connection parameters
     st.text_input("Host", value="localhost", key="Host")
-    st.text_input("Port", value="3306", key="Port")
+    st.text_input("Port", value="3506", key="Port")
     st.text_input("User", value="root", key="User")
     st.text_input("Password", type="password", value="example", key="Password")
     st.text_input("Database", value="DB", key="Database")
