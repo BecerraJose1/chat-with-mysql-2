@@ -86,18 +86,18 @@ def get_response(user_query: str, db: SQLDatabase, chat_history: list):
   
 if "chat_history" not in st.session_state:
     st.session_state.chat_history = [
-      AIMessage(content="Hello! I'm a SQL assistant. Ask me anything about your database."),
+      AIMessage(content="Hello! I'm the Hootsi assistant. Ask me anything about the database."),
     ]
 
 load_dotenv()
 
-st.set_page_config(page_title="Chat with MySQL", page_icon=":speech_balloon:")
+st.set_page_config(page_title="Chat with Hootsi", page_icon=":speech_balloon:")
 
-st.title("Chat with MySQL")
+st.title("Chat with Hootsi")
 
 with st.sidebar:
     st.subheader("Settings")
-    st.write("This is a simple chat application using MySQL. Connect to the database and start chatting.")
+    st.write("This is a simple chat application using MySQL and Hootsi data. Connect to the database and start chatting.")
     
     st.text_input("Host", value="localhost", key="Host")
     st.text_input("Port", value="3506", key="Port")
