@@ -102,7 +102,7 @@ with st.sidebar:
     st.text_input("Host", value="localhost", key="Host")
     st.text_input("Port", value="3506", key="Port")
     st.text_input("User", value="root", key="User")
-    st.text_input("Password", type="password", value="admin", key="Password")
+    st.text_input("Password", type="password", value="example", key="Password")
     st.text_input("Database", value="db", key="Database")
     
     if st.button("Connect"):
