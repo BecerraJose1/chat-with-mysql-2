@@ -113,7 +113,7 @@ with st.sidebar:
     st.write("This is a simple chat application using MySQL and Hootsi data. Connect to the database and start chatting.")
     
     st.text_input("Host", value="localhost", key="Host")
-    st.text_input("Port", value="3506", key="Port")
+    st.text_input("Port", value="3606", key="Port")
     st.text_input("User", value="root", key="User")
     st.text_input("Password", type="password", value="example", key="Password")
     st.text_input("Database", value="db", key="Database")
