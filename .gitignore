@@ -1,2 +1,23 @@
-.env
+
 mysql-data/latest/mysql.sock
+
+# Ignorar archivos y directorios innecesarios
+*.log
+*.tmp
+*.pid
+*.swp
+*.bak
+*.old
+
+# Ignorar archivos de compilación y dependencias
+node_modules
+dist
+build
+
+# Ignorar archivos de Docker
+docker-compose.override.yml
+.env
+
+# Ignorar archivos y directorios de Git
+.git
+.gitignore
