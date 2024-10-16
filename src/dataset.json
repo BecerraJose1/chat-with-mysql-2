@@ -1,0 +1,540 @@
+[
+    {
+        "location": "1",
+        "device_name": "Channel Power Amplifier",
+        "device_type": "Speaker & Amp",
+        "ip_address": "192.168.13.141",
+        "issue": "NaN",
+        "resolution": "NaN"
+    },
+    {
+        "location": "2",
+        "device_name": "Channel Power Amplifier",
+        "device_type": "Speaker & Amp",
+        "ip_address": "192.168.13.142",
+        "issue": "NaN",
+        "resolution": "NaN"
+    },
+    {
+        "location": "3",
+        "device_name": "Channel Power Amplifier",
+        "device_type": "Audio Player",
+        "ip_address": "192.168.15.52",
+        "issue": "NaN",
+        "resolution": "NaN"
+    },
+    {
+        "location": "4",
+        "device_name": "Channel Power Amplifier",
+        "device_type": "Speaker & Amp",
+        "ip_address": "192.168.15.54",
+        "issue": "NaN",
+        "resolution": "NaN"
+    },
+    {
+        "location": "5",
+        "device_name": "Channel Power Amplifier",
+        "device_type": "Speaker & Amp",
+        "ip_address": "192.168.15.53",
+        "issue": "NaN",
+        "resolution": "NaN"
+    },
+    {
+        "location": "Andrea's House",
+        "device_name": "Cisco Network Switch",
+        "device_type": "PoE Switch",
+        "ip_address": "192.168.13.253",
+        "issue": "Multiple devices connected to this switch are having network connectivity problems",
+        "resolution": "Power cycle device from listing in Domotz"
+    },
+    {
+        "location": "Audio Rack",
+        "device_name": "Cisco Network Switch",
+        "device_type": "Switch",
+        "ip_address": "192.168.13.5, 192.168.15.5, 192.168.16.5",
+        "issue": "Multiple devices connected to this switch are having network connectivity problems",
+        "resolution": "Power cycle device from listing in Domotz"
+    },
+    {
+        "location": "Backyard West",
+        "device_name": "Camera #6",
+        "device_type": "Camera",
+        "ip_address": "192.168.11.106",
+        "issue": "Video/audio from camera is not working ",
+        "resolution": "Camera Troubleshooting Guide.docx"
+    },
+    {
+        "location": "Bedroom",
+        "device_name": "Apple TV",
+        "device_type": "Media Player",
+        "ip_address": "192.168.13.39",
+        "issue": "*Streaming Device* is not working ",
+        "resolution": "Power cycle device from listing in Domotz"
+    },
+    {
+        "location": "Central Terrace",
+        "device_name": "Camera #1",
+        "device_type": "Camera",
+        "ip_address": "192.168.11.101",
+        "issue": "Video/audio from camera is not working ",
+        "resolution": "Camera Troubleshooting Guide.docx"
+    },
+    {
+        "location": "Commissary Door",
+        "device_name": "Camera #2",
+        "device_type": "Camera",
+        "ip_address": "192.168.11.102",
+        "issue": "Video/audio from camera is not working ",
+        "resolution": "Camera Troubleshooting Guide.docx"
+    },
+    {
+        "location": "Commissary Kit",
+        "device_name": "Crestron Touch Screen",
+        "device_type": "Control",
+        "ip_address": "192.168.13.157",
+        "issue": "Touch screen is not working/Commands from this device are not working ",
+        "resolution": "Power cycle device from listing in Domotz",
+        "address": "123 Main St",
+        "project_name": "Test"
+    },
+    {
+        "location": "Conservatory",
+        "device_name": "Ruckus Wireless Access Point",
+        "device_type": "Wi-Fi",
+        "ip_address": "192.168.13.48",
+        "issue": "Internet is not working in the *Wifi Room*",
+        "resolution": "Wireless Access Point Troubleshooting Guide.docx"
+    },
+    {
+        "location": "Courtyard",
+        "device_name": "Camera #15",
+        "device_type": "Camera",
+        "ip_address": "192.168.11.115",
+        "issue": "Video/audio from camera is not working ",
+        "resolution": "Camera Troubleshooting Guide.docx"
+    },
+    {
+        "location": "Door",
+        "device_name": "Camera #20",
+        "device_type": "Camera",
+        "ip_address": "192.168.10.10",
+        "issue": "Video/audio from camera is not working ",
+        "resolution": "Camera Troubleshooting Guide.docx"
+    },
+    {
+        "location": "ENT Room",
+        "device_name": "Crestron Touch Screen",
+        "device_type": "Control",
+        "ip_address": "192.168.13.152",
+        "issue": "Touch screen is not working/Commands from this device are not working ",
+        "resolution": "Power cycle device from listing in Domotz"
+    },
+    {
+        "location": "Fire Pit",
+        "device_name": "Ruckus Wireless Access Point",
+        "device_type": "Wi-Fi",
+        "ip_address": "192.168.13.99",
+        "issue": "Internet is not working in the *Wifi Room*",
+        "resolution": "Wireless Access Point Troubleshooting Guide.docx"
+    },
+    {
+        "location": "Front Entry",
+        "device_name": "Camera #11",
+        "device_type": "Camera",
+        "ip_address": "192.168.11.111",
+        "issue": "Video/audio from camera is not working ",
+        "resolution": "Camera Troubleshooting Guide.docx"
+    },
+    {
+        "location": "Front gate",
+        "device_name": "Cisco Network Switch",
+        "device_type": "PoE Switch",
+        "ip_address": "192.168.13.254",
+        "issue": "Multiple devices connected to this switch are having network connectivity problems",
+        "resolution": "Power cycle device from listing in Domotz"
+    },
+    {
+        "location": "Gameroom",
+        "device_name": "DSP Amplifier #2",
+        "device_type": "Speaker & Amp",
+        "ip_address": "192.168.13.147",
+        "issue": "Audio is not working in the *Audio room* ",
+        "resolution": "Power cycle device from listing in Domotz"
+    },
+    {
+        "location": "Garage",
+        "device_name": "Crestron Touch Screen",
+        "device_type": "Control",
+        "ip_address": "192.168.13.154",
+        "issue": "Touch screen is not working/Commands from this device are not working ",
+        "resolution": "Power cycle device from listing in Domotz"
+    },
+    {
+        "location": "Garage Exterior",
+        "device_name": "Camera #3",
+        "device_type": "Camera",
+        "ip_address": "192.168.11.103",
+        "issue": "Video/audio from camera is not working ",
+        "resolution": "Camera Troubleshooting Guide.docx"
+    },
+    {
+        "location": "Gate Front",
+        "device_name": "Camera #17",
+        "device_type": "Camera",
+        "ip_address": "192.168.11.117",
+        "issue": "Video/audio from camera is not working ",
+        "resolution": "Camera Troubleshooting Guide.docx"
+    },
+    {
+        "location": "Gate Rear",
+        "device_name": "Camera #18",
+        "device_type": "Camera",
+        "ip_address": "192.168.11.118",
+        "issue": "Video/audio from camera is not working ",
+        "resolution": "Camera Troubleshooting Guide.docx"
+    },
+    {
+        "location": "Great Room",
+        "device_name": "Apple TV",
+        "device_type": "Media Player",
+        "ip_address": "192.168.13.42",
+        "issue": "*Streaming Device* is not working ",
+        "resolution": "Power cycle device from listing in Domotz"
+    },
+    {
+        "location": "Green-SW01.lagolindo.local",
+        "device_name": "Cisco Network Switch",
+        "device_type": "PoE Switch",
+        "ip_address": "192.168.22.2",
+        "issue": "Multiple devices connected to this switch are having network connectivity problems",
+        "resolution": "Power cycle device from listing in Domotz"
+    },
+    {
+        "location": "Guest Bedroom",
+        "device_name": "Ruckus Wireless Access Point",
+        "device_type": "Wi-Fi",
+        "ip_address": "192.168.13.26",
+        "issue": "Internet is not working in the *Wifi Room*",
+        "resolution": "Wireless Access Point Troubleshooting Guide.docx"
+    },
+    {
+        "location": "Guest House",
+        "device_name": "Cisco Network Switch",
+        "device_type": "PoE Switch",
+        "ip_address": "192.168.13.9",
+        "issue": "Multiple devices connected to this switch are having network connectivity problems",
+        "resolution": "Power cycle device from listing in Domotz"
+    },
+    {
+        "location": "Gym",
+        "device_name": "Crestron Touch Screen",
+        "device_type": "Control",
+        "ip_address": "192.168.13.151",
+        "issue": "Touch screen is not working/Commands from this device are not working ",
+        "resolution": "Power cycle device from listing in Domotz"
+    },
+    {
+        "location": "Gym Hatch",
+        "device_name": "Ruckus Wireless Access Point",
+        "device_type": "Wi-Fi",
+        "ip_address": "192.168.13.30",
+        "issue": "Internet is not working in the *Wifi Room*",
+        "resolution": "Wireless Access Point Troubleshooting Guide.docx"
+    },
+    {
+        "location": "Gym Stairs",
+        "device_name": "Camera #7",
+        "device_type": "Camera",
+        "ip_address": "192.168.11.107",
+        "issue": "Video/audio from camera is not working ",
+        "resolution": "Camera Troubleshooting Guide.docx"
+    },
+    {
+        "location": "Headend",
+        "device_name": "Camera #19",
+        "device_type": "Camera",
+        "ip_address": "192.168.11.51",
+        "issue": "Video/audio from camera is not working ",
+        "resolution": "Camera Troubleshooting Guide.docx"
+    },
+    {
+        "location": "Her Bath",
+        "device_name": "Ruckus Wireless Access Point",
+        "device_type": "Wi-Fi",
+        "ip_address": "192.168.13.35",
+        "issue": "Internet is not working in the *Wifi Room*",
+        "resolution": "Wireless Access Point Troubleshooting Guide.docx"
+    },
+    {
+        "location": "Her Office",
+        "device_name": "Crestron Handheld Remote",
+        "device_type": "Control",
+        "ip_address": "192.168.13.186",
+        "issue": "Touch screen is not working/Commands from this device are not working ",
+        "resolution": "Reboot TSR-310 Instructions.pdf"
+    },
+    {
+        "location": "Her Office Patio",
+        "device_name": "Ruckus Wireless Access Point",
+        "device_type": "Wi-Fi",
+        "ip_address": "192.168.13.31",
+        "issue": "Internet is not working in the *Wifi Room*",
+        "resolution": "Wireless Access Point Troubleshooting Guide.docx"
+    },
+    {
+        "location": "His",
+        "device_name": "Apple TV",
+        "device_type": "Media Player",
+        "ip_address": "192.168.13.41",
+        "issue": "*Streaming Device* is not working ",
+        "resolution": "Power cycle device from listing in Domotz"
+    },
+    {
+        "location": "His Bath",
+        "device_name": "Crestron Handheld Remote",
+        "device_type": "Control",
+        "ip_address": "192.168.13.185",
+        "issue": "Touch screen is not working/Commands from this device are not working ",
+        "resolution": "Reboot TSR-310 Instructions.pdf"
+    },
+    {
+        "location": "His Office",
+        "device_name": "Crestron Touch Screen",
+        "device_type": "Control",
+        "ip_address": "192.168.13.156",
+        "issue": "Touch screen is not working/Commands from this device are not working ",
+        "resolution": "Power cycle device from listing in Domotz"
+    },
+    {
+        "location": "His Office Terrace",
+        "device_name": "Camera #12",
+        "device_type": "Camera",
+        "ip_address": "192.168.11.112",
+        "issue": "Video/audio from camera is not working ",
+        "resolution": "Camera Troubleshooting Guide.docx"
+    },
+    {
+        "location": "Home Theater",
+        "device_name": "Apple TV",
+        "device_type": "Media Player",
+        "ip_address": "192.168.13.25",
+        "issue": "*Streaming Device* is not working ",
+        "resolution": "Power cycle device from listing in Domotz"
+    },
+    {
+        "location": "House",
+        "device_name": "Apple TV",
+        "device_type": "Media Player",
+        "ip_address": "192.168.13.98",
+        "issue": "*Streaming Device* is not working ",
+        "resolution": "Power cycle device from listing in Domotz"
+    },
+    {
+        "location": "Kitchen",
+        "device_name": "Ruckus Wireless Access Point",
+        "device_type": "Wi-Fi",
+        "ip_address": "192.168.13.33",
+        "issue": "Internet is not working in the *Wifi Room*",
+        "resolution": "Wireless Access Point Troubleshooting Guide.docx"
+    },
+    {
+        "location": "Laundry",
+        "device_name": "Crestron Touch Screen",
+        "device_type": "Control",
+        "ip_address": "192.168.13.155",
+        "issue": "Touch screen is not working/Commands from this device are not working ",
+        "resolution": "Power cycle device from listing in Domotz"
+    },
+    {
+        "location": "Laundry Closet",
+        "device_name": "Ruckus Wireless Access Point",
+        "device_type": "Wi-Fi",
+        "ip_address": "192.168.13.80",
+        "issue": "Internet is not working in the *Wifi Room*",
+        "resolution": "Wireless Access Point Troubleshooting Guide.docx"
+    },
+    {
+        "location": "Living Room",
+        "device_name": "Apple TV",
+        "device_type": "Media Player",
+        "ip_address": "192.168.13.94",
+        "issue": "*Streaming Device* is not working ",
+        "resolution": "Power cycle device from listing in Domotz"
+    },
+    {
+        "location": "Lounge",
+        "device_name": "Ruckus Wireless Access Point",
+        "device_type": "Wi-Fi",
+        "ip_address": "192.168.13.84",
+        "issue": "Internet is not working in the *Wifi Room*",
+        "resolution": "Wireless Access Point Troubleshooting Guide.docx"
+    },
+    {
+        "location": "Lower Driveway",
+        "device_name": "Camera #5",
+        "device_type": "Camera",
+        "ip_address": "192.168.11.105",
+        "issue": "Video/audio from camera is not working ",
+        "resolution": "Camera Troubleshooting Guide.docx"
+    },
+    {
+        "location": "Master Bedroom",
+        "device_name": "Ruckus Wireless Access Point",
+        "device_type": "Wi-Fi",
+        "ip_address": "192.168.13.28",
+        "issue": "Internet is not working in the *Wifi Room*",
+        "resolution": "Wireless Access Point Troubleshooting Guide.docx"
+    },
+    {
+        "location": "Media",
+        "device_name": "Crestron Network AV",
+        "device_type": "Audio & Video",
+        "ip_address": "192.168.22.207",
+        "issue": "Video/audio are not working in the *AV Room* ",
+        "resolution": "Power cycle device from listing in Domotz"
+    },
+    {
+        "location": "Media Room",
+        "device_name": "Ruckus Wireless Access Point",
+        "device_type": "Wi-Fi",
+        "ip_address": "192.168.13.29",
+        "issue": "Internet is not working in the *Wifi Room*",
+        "resolution": "Wireless Access Point Troubleshooting Guide.docx"
+    },
+    {
+        "location": "Motor Court",
+        "device_name": "Camera #4",
+        "device_type": "Camera",
+        "ip_address": "192.168.11.104",
+        "issue": "Video/audio from camera is not working ",
+        "resolution": "Camera Troubleshooting Guide.docx"
+    },
+    {
+        "location": "Network Rack",
+        "device_name": "Cisco Router Firewall",
+        "device_type": "Firewall",
+        "ip_address": "192.168.10.1, 192.168.11.1, 192.168.13.1, 192.168.15.1, 192.168.16.1, 192.168.22.1",
+        "issue": "Internet througout the house is not working ",
+        "resolution": "Wireless Access Point Troubleshooting Guide.docx"
+    },
+    {
+        "location": "NVX",
+        "device_name": "Cisco Network Switch",
+        "device_type": "Switch",
+        "ip_address": "192.168.22.7",
+        "issue": "Multiple devices connected to this switch are having network connectivity problems",
+        "resolution": "Power cycle device from listing in Domotz"
+    },
+    {
+        "location": "Private Garden",
+        "device_name": "Camera #9",
+        "device_type": "Camera",
+        "ip_address": "192.168.11.109",
+        "issue": "Video/audio from camera is not working ",
+        "resolution": "Camera Troubleshooting Guide.docx"
+    },
+    {
+        "location": "Rack Room",
+        "device_name": "Motor Power Supply",
+        "device_type": "Home Automation",
+        "ip_address": "192.168.13.108",
+        "issue": "Power supply is not responding to commands",
+        "resolution": "Power cycle device from listing in Domotz"
+    },
+    {
+        "location": "Robbie",
+        "device_name": "AppleTV",
+        "device_type": "Media Player",
+        "ip_address": "192.168.13.40",
+        "issue": "*Streaming Device* is not working ",
+        "resolution": "Power cycle device from listing in Domotz"
+    },
+    {
+        "location": "Robbie's Office",
+        "device_name": "Crestron Touch Screen",
+        "device_type": "Control",
+        "ip_address": "192.168.13.158",
+        "issue": "Touch screen is not working/Commands from this device are not working ",
+        "resolution": "Power cycle device from listing in Domotz"
+    },
+    {
+        "location": "Robbie's Room",
+        "device_name": "Crestron Network AV",
+        "device_type": "Audio & Video",
+        "ip_address": "192.168.22.208",
+        "issue": "Video/audio are not working in the *AV Room* ",
+        "resolution": "Power cycle device from listing in Domotz"
+    },
+    {
+        "location": "Robbie's Terrace",
+        "device_name": "Camera #13",
+        "device_type": "Camera",
+        "ip_address": "192.168.11.113",
+        "issue": "Video/audio from camera is not working ",
+        "resolution": "Camera Troubleshooting Guide.docx"
+    },
+    {
+        "location": "Staff Bath Exterior",
+        "device_name": "Camera #10",
+        "device_type": "Camera",
+        "ip_address": "192.168.11.110",
+        "issue": "Video/audio from camera is not working ",
+        "resolution": "Camera Troubleshooting Guide.docx"
+    },
+    {
+        "location": "tennis",
+        "device_name": "Apple TV",
+        "device_type": "Media Player",
+        "ip_address": "192.168.13.36",
+        "issue": "*Streaming Device* is not working ",
+        "resolution": "Power cycle device from listing in Domotz"
+    },
+    {
+        "location": "Tennis Court",
+        "device_name": "Camera #16",
+        "device_type": "Camera",
+        "ip_address": "192.168.11.116",
+        "issue": "Video/audio from camera is not working ",
+        "resolution": "Camera Troubleshooting Guide.docx"
+    },
+    {
+        "location": "Tennis Pavillion",
+        "device_name": "Cisco Network Switch",
+        "device_type": "PoE Switch",
+        "ip_address": "192.168.13.8",
+        "issue": "Multiple devices connected to this switch are having network connectivity problems",
+        "resolution": "Power cycle device from listing in Domotz"
+    },
+    {
+        "location": "Upper Cart Path",
+        "device_name": "Camera #14",
+        "device_type": "Camera",
+        "ip_address": "192.168.11.114",
+        "issue": "Video/audio from camera is not working ",
+        "resolution": "Camera Troubleshooting Guide.docx"
+    },
+    {
+        "location": "Upper Motor Court",
+        "device_name": "Camera #8",
+        "device_type": "Camera",
+        "ip_address": "192.168.11.108",
+        "issue": "Video/audio from camera is not working ",
+        "resolution": "Camera Troubleshooting Guide.docx"
+    },
+    {
+        "location": "Video Rack",
+        "device_name": "Global View GNVR",
+        "device_type": "Desktop",
+        "ip_address": "192.168.11.100",
+        "issue": "NVR is not responding",
+        "resolution": "Camera Troubleshooting Guide.docx"
+    },
+    {
+        "location": "VIP Guest",
+        "device_name": "Crestron Network AV",
+        "device_type": "Audio & Video",
+        "ip_address": "192.168.22.210",
+        "issue": "Video/audio are not working in the *AV Room* ",
+        "resolution": "Power cycle device from listing in Domotz"
+    }
+]
